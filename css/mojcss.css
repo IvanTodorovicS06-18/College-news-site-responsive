@@ -1,0 +1,15 @@
+.ikone{
+    width: 8vw;
+    float: right;
+    
+}
+
+
+
+  @media screen and (max-width: 1250px) {
+    .ikone {
+        width: 100px;
+      
+      
+    }
+  }
